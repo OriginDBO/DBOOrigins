@@ -9,7 +9,6 @@
 *Built from the ground up. Driven by passion. Powered by community.*
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fnRr3pBWg6)
-[![Wiki](https://img.shields.io/badge/Docs-GitHub%20Wiki-informational?style=for-the-badge&logo=github&logoColor=white)](../../wiki)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
 
 </div>
