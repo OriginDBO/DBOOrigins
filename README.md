@@ -58,28 +58,18 @@ We made a promise to ourselves early on: **If We're Gonna Do It, Do It Right** I
 
 ---
 
-## 📚 Documentation
-
-Project documentation is maintained on the **GitHub Wiki** and will grow as development progresses.
-
-> 📖 **[View the Wiki →](../../wiki)**
-
-Topics will include server setup guides, content documentation, development notes, and more as they become available.
-
----
-
 ## 🗺️ Project Timeline
 
 | Period | Milestone |
 |---|---|
-| April 2021 | Team officially formed |
+| January 2021 | Team officially formed |
 | December 2021 | Development gets serious — real work, real player base |
-| Late 2021 | Major DBO content breakthroughs — first publicly done in over a decade |
-| February 2022 | DBOGalaxy Alpha launched (TW 1.69 client) |
-| Mid 2022 | Shifted to DBO KR 2.0 client development |
-| Late 2022 | Team and experience grows — preparation for 2.0 public release begins |
-| February 2023 | First public roadmap published — completed ahead of schedule |
-| Now | **DBO Unbound** — new codebase, full control, next chapter begins |
+| February 2022 | DBOGenerations launched (TW 1.69 client) |
+| Mid 2022 | DBOGenerations Went Dormant To Focus on 2.0 Development |
+| Late 2022 | Experience grows — preparation for 2.0 public release begins |
+| February 2023 | Team Took a Break From Development, Everything Went Dormant |
+| March 2026 | The Team Meets Again, and Resume 2.0 Development
+| (17th) May 2026 | **DBO Unbound** — new codebase, full control, next chapter begins |
 
 ---
 
