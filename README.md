@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 DBO Unbound  
+# 🐉 DragonBallOnline Origins 
 
 **A Dragon Ball Online Private Server Project**
 
@@ -8,16 +8,16 @@
 
 *Built from the ground up. Driven by passion. Powered by community.*
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fnRr3pBWg6)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7mU5AkWXW)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
 
 </div>
 
 ---
 
-## 🌐 About DBO Unbound
+## 🌐 About DBO Origins
 
-DBO Unbound is a private Dragon Ball Online server project — a labor of love from a small, tight-knit team that got tired of waiting and decided to build something themselves.
+DBO Origins is a private Dragon Ball Online server project — a labor of love from a small, tight-knit team that got tired of waiting and decided to build something themselves.
 
 We're not a massive organization. We're a small group of friends who care deeply about this game and the community around it. That's exactly what makes us different. Every decision, every line of code, every piece of content — it's made with intention, with care, and with our players in mind.
 
@@ -42,7 +42,7 @@ Some of what we're proud of:
 - 👹 **New bosses** — completely original animations and skill sets
 - 📦 **Custom content pipeline** — built and refined entirely in-house
 
-This project — **DBO Unbound** — is the next chapter. A fresh start with everything we've learned, built the right way, with full control over our own codebase.
+This project — **DBO Origins** — is the next chapter. A fresh start with everything we've learned, built the right way, with full control over our own codebase.
 
 ---
 
@@ -54,7 +54,7 @@ We made a promise to ourselves early on: **If We're Gonna Do It, Do It Right** I
 
 **Join us on Discord:**
 
-[![Discord Banner](https://img.shields.io/badge/Discord-DBO%20Unbound-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fnRr3pBWg6)
+[![Discord Banner](https://img.shields.io/badge/Discord-DBO%20Unbound-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/M7mU5AkWXW)
 
 ---
 
@@ -69,7 +69,7 @@ We made a promise to ourselves early on: **If We're Gonna Do It, Do It Right** I
 | Late 2022 | Experience grows — preparation for 2.0 public release begins |
 | February 2023 | Team Took a Break From Development, Everything Went Dormant |
 | March 2026 | The Team Meets Again, and Resume 2.0 Development
-| (17th) May 2026 | **DBO Unbound** — new codebase, full control, next chapter begins |
+| (17th) May 2026 | **DBO Origins** — new codebase, full control, next chapter begins |
 
 ---
 
@@ -77,12 +77,12 @@ We made a promise to ourselves early on: **If We're Gonna Do It, Do It Right** I
 
 This is a private project. Contributions are by invitation only.
 
-If you're interested in being part of the team, reach out through our **[Discord](https://discord.gg/fnRr3pBWg6)**.
+If you're interested in being part of the team, reach out through our **[Discord](https://discord.gg/M7mU5AkWXW)**.
 
 ---
 
 <div align="center">
 
-*DBO Unbound — Built with passion, for the players.*
+*DBO Origins — Built with passion, for the players.*
 
 </div>
